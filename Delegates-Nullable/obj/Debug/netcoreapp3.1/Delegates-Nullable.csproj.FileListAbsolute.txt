@@ -1,0 +1,14 @@
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.exe
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.deps.json
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.runtimeconfig.dev.json
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.dll
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\bin\Debug\netcoreapp3.1\Delegates-Nullable.pdb
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.dll
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.pdb
+C:\Users\novra\OneDrive\Desktop\Delegates-Nullable\Delegates-Nullable\obj\Debug\netcoreapp3.1\Delegates-Nullable.genruntimeconfig.cache
